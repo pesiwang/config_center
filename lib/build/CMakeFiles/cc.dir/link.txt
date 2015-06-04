@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcc.a  CMakeFiles/cc.dir/src/CCFileMonitor.cpp.o CMakeFiles/cc.dir/src/CCWriter.cpp.o
+/usr/bin/ranlib libcc.a

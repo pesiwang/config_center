@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CCWriter.h
+string
+-
+json/json.h
+-
+stdint.h
+-
+
+/home/raychen/projects/config_center/lib/src/CCWriter.cpp
+CCWriter.h
+/home/raychen/projects/config_center/lib/src/CCWriter.h
+arpa/inet.h
+-
+stdexcept
+-
+

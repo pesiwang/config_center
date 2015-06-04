@@ -1,0 +1,16 @@
+{
+	"sys": {
+		"host":"10.10.2.52",
+		"port":9998
+	},
+	"button": [
+		{
+			"title": "xxx",
+			"enabled":true
+		},
+		{
+			"title": "def",
+			"enabled":true
+		}
+	]
+}
